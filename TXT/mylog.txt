@@ -1,4 +1,3 @@
-# Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 =========================================
 https://doit.vlsm.org/ETC/logCodes.txt

@@ -1,5 +1,5 @@
 ---
-title: OS242: Nadekoooo
+title: "OS242: Nadekoooo"
 layout: default
 ---
 

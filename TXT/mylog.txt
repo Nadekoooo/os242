@@ -2,6 +2,11 @@
 # https://doit.vlsm.org/ETC/logCodes.txt
 
 
+
+ZCZC W02 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W02 15 L04 Github Pages related
+ZCZC W02 60 L09 Weekly Assignments
+ZCZC W02 99 L02 CLASSROOM/ZOOM mettings related
 ZCZC W01 99 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 10 L04 GitHub Pages related
 ZCZC W01 60 L09 Weekly Assignments

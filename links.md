@@ -5,6 +5,10 @@ permalink: LINKS/
 LINKS
 ======
 
+## VLMS Important Links
+
+- [Key Setup on GnuPG](https://doit.vlsm.org/049.html)
+
 ## Operating System (OS) Resources
 
 - [Linux from Scratch](http://www.linuxfromscratch.org/)

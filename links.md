@@ -8,6 +8,8 @@ LINKS
 ## VLMS Important Links
 
 - [Key Setup on GnuPG](https://doit.vlsm.org/049.html)
+- [Bashing MyScript IMPORTANT](https://demos.vlsm.org/W02-09.html)
+- [Linux Ez Scripts](https://www.digitalocean.com/community/tutorials/linux-commands)
 
 ## Operating System (OS) Resources
 

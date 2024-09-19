@@ -6,13 +6,16 @@ LINKS
 ======
 
 ## VLMS Important Links
+## Kindly reminder for anybody who seeing this DONT FORGET TO bash myscript.sh {your week}
 
+- [Backup So u Wont be KW student](https://demos.vlsm.org/W02-11.html)
 - [Key Setup on GnuPG](https://doit.vlsm.org/049.html)
 - [Bashing MyScript IMPORTANT](https://demos.vlsm.org/W02-09.html)
 - [Linux Ez Scripts](https://www.digitalocean.com/community/tutorials/linux-commands)
 
 ## Operating System (OS) Resources
 
+- [CMD Prompt like a Boss](https://www.lifewire.com/list-of-command-prompt-commands-4092302)
 - [Linux from Scratch](http://www.linuxfromscratch.org/)
 - [The Linux Kernel Archives](https://www.kernel.org/)
 - [UNIX History](https://www.unix.org/)

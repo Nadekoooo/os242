@@ -4,9 +4,9 @@ permalink: LINKS/
 
 LINKS
 ======
+## Kindly reminder for anybody who seeing this DONT FORGET TO bash myscript.sh
 
 ## VLMS Important Links
-## Kindly reminder for anybody who seeing this DONT FORGET TO bash myscript.sh {your week}
 
 - [Backup So u Wont be KW student](https://demos.vlsm.org/W02-11.html)
 - [Key Setup on GnuPG](https://doit.vlsm.org/049.html)

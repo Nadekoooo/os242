@@ -15,12 +15,15 @@ LINKS
 
 ## Operating System (OS) Resources
 
+- [C on linux](https://www.log2base2.com/C/basic/how-to-compile-the-c-program.html)
+- [Using C in linux](https://vitux.com/how-to-write-and-run-a-c-program-in-linux/)
 - [CMD Prompt like a Boss](https://www.lifewire.com/list-of-command-prompt-commands-4092302)
 - [Linux from Scratch](http://www.linuxfromscratch.org/)
 - [The Linux Kernel Archives](https://www.kernel.org/)
 - [UNIX History](https://www.unix.org/)
 - [Operating System Concepts](https://codex.cs.yale.edu/avi/os-book/OS9/index.html)
 - [MIT's Introduction to Operating Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/)
+- [Networks related content](https://www.geeksforgeeks.org/what-is-p2p-peer-to-peer-process/)
 
 ## Tools and Programming
 

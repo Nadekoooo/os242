@@ -1,7 +1,7 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # https://doit.vlsm.org/ETC/logCodes.txt
 
-
+ZCZC W04 60 L09 Weekly Assignments
 ZCZC W04 20 L05 Quizzes doing
 ZCZC W04 30 L09 Weekly Assignments
 ZCZC W04 60 L09 Weekly Assignments

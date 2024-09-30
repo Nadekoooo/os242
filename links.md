@@ -48,3 +48,5 @@ LINKS
 - [Stack Overflow](https://stackoverflow.com/)
 - [Mozilla Developer Network (MDN)](https://developer.mozilla.org/)
 - [GitHub](https://github.com/)
+- [Linux](https://www.linux.org)
+- [Wikiped](https://en.wikipedia.org/wiki/Operating_system)

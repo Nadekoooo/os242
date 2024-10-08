@@ -24,6 +24,10 @@ LINKS
 - [Operating System Concepts](https://codex.cs.yale.edu/avi/os-book/OS9/index.html)
 - [MIT's Introduction to Operating Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/)
 - [Networks related content](https://www.geeksforgeeks.org/what-is-p2p-peer-to-peer-process/)
+- [Virtual machine ram usage](https://superuser.com/questions/1306747/how-does-ram-work-in-a-virtual-machine)
+- [VM storage tunings?](https://cyberspecs.medium.com/fine-tuning-memory-allocation-on-virtual-machines-dc27f02ba1f3)
+- [C in linux benefits](https://www.quora.com/Is-coding-in-C-in-Linux-virtual-machine-provides-any-benefits-over-coding-in-C-in-Windows-Im-using-the-CLion-IDE-which-is-available-for-both-Windows-and-Linux)
+
 
 ## Tools and Programming
 

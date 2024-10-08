@@ -1,6 +1,12 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # https://doit.vlsm.org/ETC/logCodes.txt
 
+
+ZCZC W05 30 L04 Github Pages Related
+ZCZC W05 50 L05 Quizzes study and quiz
+ZCZC W05 45 L09 Weekly Assignments
+ZCZC W05 90 L02 Classroom Meetings
+ZCZC W05 90 L02 Classroom Meetings
 ZCZC W04 60 L09 Weekly Assignments
 ZCZC W04 20 L05 Quizzes doing
 ZCZC W04 30 L09 Weekly Assignments

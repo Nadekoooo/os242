@@ -27,6 +27,9 @@ LINKS
 - [Virtual machine ram usage](https://superuser.com/questions/1306747/how-does-ram-work-in-a-virtual-machine)
 - [VM storage tunings?](https://cyberspecs.medium.com/fine-tuning-memory-allocation-on-virtual-machines-dc27f02ba1f3)
 - [C in linux benefits](https://www.quora.com/Is-coding-in-C-in-Linux-virtual-machine-provides-any-benefits-over-coding-in-C-in-Windows-Im-using-the-CLion-IDE-which-is-available-for-both-Windows-and-Linux)
+- [What is address](https://www.techopedia.com/definition/323/memory-address)
+- [Html css](https://www.w3schools.com/html/html_css.asp)
+- [CSS](https://www.w3schools.com/css/)
 
 
 ## Tools and Programming
@@ -54,3 +57,4 @@ LINKS
 - [GitHub](https://github.com/)
 - [Linux](https://www.linux.org)
 - [Wikiped](https://en.wikipedia.org/wiki/Operating_system)
+- [C programming](https://computer.howstuffworks.com/c23.htm)

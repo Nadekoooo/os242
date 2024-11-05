@@ -12,6 +12,9 @@ LINKS
 - [Key Setup on GnuPG](https://doit.vlsm.org/049.html)
 - [Bashing MyScript IMPORTANT](https://demos.vlsm.org/W02-09.html)
 - [Linux Ez Scripts](https://www.digitalocean.com/community/tutorials/linux-commands)
+- [FINISHING ex :week 7](https://demos.vlsm.org/W07-04.html)
+- [Docusaurus](https://docusaurus.io)
+- [Web Basics](https://www.tutorialspoint.com/web_developers_guide/web_basic_concepts.htm)
 
 ## Operating System (OS) Resources
 

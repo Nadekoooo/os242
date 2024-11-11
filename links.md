@@ -15,6 +15,8 @@ LINKS
 - [FINISHING ex :week 7](https://demos.vlsm.org/W07-04.html)
 - [Docusaurus](https://docusaurus.io)
 - [Web Basics](https://www.tutorialspoint.com/web_developers_guide/web_basic_concepts.htm)
+- [Linux Video](https://www.youtube.com/watch?v=vMdPHpPiy4Q&list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3&index=8)
+- [Usefull linux tutorial](https://youtu.be/gd7BXuUQ91w?si=FNhwp84_ymBuYmNR)
 
 ## Operating System (OS) Resources
 
